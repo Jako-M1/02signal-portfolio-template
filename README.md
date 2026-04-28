@@ -8,41 +8,25 @@ Replace this with a short intro about yourself and your business -->
 ## My Automations
 
 ### Week 1
-**What I built:** 
-**What it does:** 
-**Link to workflow:** See `/workflows/week1.json`
-
+**What I built:** **What it does:** **Link to workflow:** [Click here to view workflow](PASTE_YOUR_LINK_HERE)
 
 ### Week 2
-**What I built:** 
-**What it does:** 
-**Link to workflow:** See `/workflows/week2.json`
+**What I built:** **What it does:** **Link to workflow:** [Click here to view workflow](PASTE_YOUR_LINK_HERE)
 
 ### Week 3
-**What I built:** 
-**What it does:** 
-**Link to workflow:** See `/workflows/week3.json`
+**What I built:** **What it does:** **Link to workflow:** [Click here to view workflow](PASTE_YOUR_LINK_HERE)
 
 ### Week 4
-**What I built:** 
-**What it does:** 
-**Link to workflow:** See `/workflows/week4.json`
+**What I built:** **What it does:** **Link to workflow:** [Click here to view workflow](PASTE_YOUR_LINK_HERE)
 
 ### Week 5
-**What I built:** 
-**What it does:** 
-**Link to workflow:** See `/workflows/week5.json`
+**What I built:** **What it does:** **Link to workflow:** [Click here to view workflow](PASTE_YOUR_LINK_HERE)
 
 ### Week 6
-**What I built:** 
-**What it does:** 
-**Link to workflow:** See `/workflows/week6.json`
+**What I built:** **What it does:** **Link to workflow:** [Click here to view workflow](PASTE_YOUR_LINK_HERE)
 
 ### Week 7
-**What I built:** 
-**What it does:** 
-**Link to workflow:** See `/workflows/week7.json`
-
+**What I built:** **What it does:** **Link to workflow:** [Click here to view workflow](PASTE_YOUR_LINK_HERE)
 
 ---
 
