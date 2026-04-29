@@ -1,6 +1,6 @@
-# [Your Name] — Portfolio
+# [Jako] — Portfolio
 
-## About Me
+## Viisakas, avatud, rõõmsameelne
 Replace this with a short intro about yourself and your business -->
 
 ---
